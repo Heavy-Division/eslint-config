@@ -1,6 +1,6 @@
 {
   "name": "@Heavy-Division/eslint-config",
-  "version": "0.2.3",
+  "version": "0.1.0"
   "description": "ESLint configuration used by FlyByWire Simulations projects ",
   "main": "index.js",
   "author": "FlyByWire Simulations",
