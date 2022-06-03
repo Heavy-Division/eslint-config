@@ -1,7 +1,7 @@
 {
   "name": "@Heavy-Division/eslint-config",
   "version": "0.1.0"
-  "description": "ESLint configuration used by FlyByWire Simulations projects ",
+  "description": "ESLint configuration used by Heavy Division projects ",
   "main": "index.js",
   "author": "FlyByWire Simulations",
   "license": "MIT",
