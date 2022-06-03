@@ -1,0 +1,23 @@
+{
+  "name": "@Heavy-Division/eslint-config",
+  "version": "0.2.3",
+  "description": "ESLint configuration used by FlyByWire Simulations projects ",
+  "main": "index.js",
+  "author": "FlyByWire Simulations",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint --config index.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.4"
+  }
+}
