@@ -1,5 +1,5 @@
 {
-  "name": "@Heavy-Division/eslint-config",
+  "name": "@heavy-division/eslint-config",
   "version": "0.1.0",
   "description": "ESLint configuration used by Heavy Division Simulations projects ",
   "main": "index.js",
